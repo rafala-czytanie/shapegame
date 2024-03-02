@@ -1,7 +1,7 @@
 import pygame
-from src.simulator import Simulator
-from src.shapes.square import Square
-from src.ui import UI
+from simulator import Simulator
+from shapes.square import Square
+from ui import UI
 
 
 class Game:
