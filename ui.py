@@ -2,7 +2,7 @@ import sys
 
 import pygame
 
-from src.simulator import Simulator
+from simulator import Simulator
 
 
 class UI:
