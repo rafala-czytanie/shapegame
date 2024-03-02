@@ -2,7 +2,7 @@ import math
 import random
 import pygame
 
-from shapes.circle import Circle
+from circle import Circle
 
 
 class Simulator:
