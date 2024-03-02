@@ -1,6 +1,6 @@
 import pygame
 from simulator import Simulator
-from shapes.square import Square
+from square import Square
 from ui import UI
 
 
